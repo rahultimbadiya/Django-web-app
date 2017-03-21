@@ -1,3 +1,5 @@
+#all models are created in this file
+
 from django.db import models
 from django.utils import timezone
 import datetime
